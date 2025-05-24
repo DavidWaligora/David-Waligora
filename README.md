@@ -11,10 +11,10 @@ https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/K6UQ
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/VJ5A2BEM?sharingId=8BB15252B57FB6C3
 ```
 ```bash
-24-05-2025: Use a database with minimal API, Entity Framework Core, and ASP.NET Core
+24-05-2025: Create web apps and services with ASP.NET Core, minimal API, and .NET
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/FMP8ZNRX?sharingId=8BB15252B57FB6C3
 ```
 ```bash
-24-05-2025: Use a database with minimal API, Entity Framework Core, and ASP.NET Core
+24-05-2025: Create a full stack application by using React and minimal API for ASP.NET Core
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/JU8K6DST?sharingId=8BB15252B57FB6C3
 ```
