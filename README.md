@@ -1,5 +1,5 @@
 # David-Waligora
-Hello, my name is David Waligora and this repo holds my achievments
+Hello, my name is David Waligora and this repo holds my achievements.
 
 ## 🚀 Achievements
 ```bash
