@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+27-05-2025: Describe cloud computing
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/NVPBLPUF?sharingId=8BB15252B57FB6C3
+```
+```bash
 27-05-2025: Develop monitor and status dashboards
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/UR2QVTZ3?sharingId=8BB15252B57FB6C3
 ```
