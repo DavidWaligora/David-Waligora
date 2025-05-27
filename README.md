@@ -16,7 +16,7 @@ Create a web API with ASP.NET Core controllers
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/8ZQZ23LW?sharingId=8BB15252B57FB6C3
 ```
 ```bash
-Build a to-do list with Blazor
+27-05-2025: Build a to-do list with Blazor
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/XQKD3KVY?sharingId=8BB15252B57FB6C3
 ```
 ```bash
