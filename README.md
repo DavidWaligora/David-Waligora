@@ -19,6 +19,10 @@ https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/8ZQZ
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/XQKD3KVY?sharingId=8BB15252B57FB6C3
 ```
 ```bash
+27-05-2025: Build your first web app with Blazor
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/XQKJ7V9Y?sharingId=8BB15252B57FB6C3
+```
+```bash
 24-05-2025: Create a full stack application by using React and minimal API for ASP.NET Core
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/JU8K6DST?sharingId=8BB15252B57FB6C3
 ```
