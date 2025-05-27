@@ -3,8 +3,11 @@
 
 ## 🚀 Achievements
 ```bash
-27-05-2025
-Explore Azure Pipelines
+27-05-2025: Persist and retrieve relational data by using Entity Framework Core
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/NVPK5LEF?sharingId=8BB15252B57FB6C3
+```
+```bash
+27-05-2025: Explore Azure Pipelines
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/UR22SE43?sharingId=8BB15252B57FB6C3
 ```
 ```bash
