@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+27-05-2025: Introduction to DevOps
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/E5C8R7CP?sharingId=8BB15252B57FB6C3
+```
+```bash
 27-05-2025: Microsoft Azure Fundamentals: Describe cloud concepts
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/8ZQ4GE6W?sharingId=8BB15252B57FB6C3
 ```
