@@ -3,6 +3,14 @@
 
 ## 🚀 Achievements
 ```bash
+27-05-2025: Microsoft Azure Fundamentals: Describe cloud concepts
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/8ZQ4GE6W?sharingId=8BB15252B57FB6C3
+```
+```bash
+27-05-2025: Describe cloud service types
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/9YZMT25U?sharingId=8BB15252B57FB6C3
+```
+```bash
 27-05-2025: Describe the benefits of using cloud services
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/FM4DCGUX?sharingId=8BB15252B57FB6C3
 ```
