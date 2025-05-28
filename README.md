@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+28-05-2025: Plan Agile with GitHub Projects and Azure Boards
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/ZBSFSUX2?sharingId=8BB15252B57FB6C3
+```
+```bash
 27-05-2025: Introduction to DevOps
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/E5C8R7CP?sharingId=8BB15252B57FB6C3
 ```
