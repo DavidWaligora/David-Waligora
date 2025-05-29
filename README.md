@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+29-05-2025: Introduction to software testing concepts
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/XQB2724Y?sharingId=8BB15252B57FB6C3
+```
+```bash
 29-05-2025: Interactively debug .NET apps with the Visual Studio debugger
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/URVNLZX3?sharingId=8BB15252B57FB6C3
 ```
