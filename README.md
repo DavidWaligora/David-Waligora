@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+29-05-2025: Interactively debug .NET apps with the Visual Studio debugger
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/URVNLZX3?sharingId=8BB15252B57FB6C3
+```
+```bash
 28-05-2025: Plan Agile with GitHub Projects and Azure Boards
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/ZBSFSUX2?sharingId=8BB15252B57FB6C3
 ```
