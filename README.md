@@ -3,6 +3,14 @@
 
 ## 🚀 Achievements
 ```bash
+02-06-2025: Use Visual Studio for modern development
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/ZB5FBZD2?sharingId=8BB15252B57FB6C3
+```
+```bash
+02-06-2025: C# testing in Visual Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/E5975E5P?sharingId=8BB15252B57FB6C3
+```
+```bash
 29-05-2025: Introduction to software testing concepts
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/XQB2724Y?sharingId=8BB15252B57FB6C3
 ```
