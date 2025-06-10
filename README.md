@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+10-06-2025: Create, configure, and manage identities (microsoft entra)
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/D9FRY83J?sharingId=8BB15252B57FB6C3
+```
+```bash
 02-06-2025: Use Visual Studio for modern development
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/ZB5FBZD2?sharingId=8BB15252B57FB6C3
 ```
