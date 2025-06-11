@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+11-06-2025: Secure a .NET web app with the ASP.NET Core Identity framework
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/3AE5ALPH?sharingId=8BB15252B57FB6C3
+```
+```bash
 10-06-2025: Create, configure, and manage identities (microsoft entra)
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/D9FRY83J?sharingId=8BB15252B57FB6C3
 ```
