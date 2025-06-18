@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+18-06-2025: Introduction to AI concepts
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/QSHUCTYE?sharingId=8BB15252B57FB6C3
+```
+```bash
 11-06-2025: Secure a .NET web app with the ASP.NET Core Identity framework
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/3AE5ALPH?sharingId=8BB15252B57FB6C3
 ```
